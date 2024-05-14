@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2024-05-14T17:07:50.964Z
+date: 2024-05-14T17:14:42.856Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-14T17:02:05.298Z
@@ -13,4 +13,4 @@ dateCreated: 2024-05-14T17:02:05.298Z
 ## Table of Contents
 
 
-[Build your own NAS with Ubuntu Server]()
+[Build your own NAS with Ubuntu Server](/ubuntu-nas/create-bootable-usb)
