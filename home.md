@@ -2,15 +2,12 @@
 title: Home
 description: 
 published: true
-date: 2024-05-14T17:14:42.856Z
+date: 2024-05-14T17:17:58.907Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-14T17:02:05.298Z
 ---
 
-# Home Lab Wiki
+# Seemon - Home Lab Wiki
 
-## Table of Contents
-
-
-[Build your own NAS with Ubuntu Server](/ubuntu-nas/create-bootable-usb)
+* [Build your own NAS with Ubuntu Server](/ubuntu-nas/create-bootable-usb)
